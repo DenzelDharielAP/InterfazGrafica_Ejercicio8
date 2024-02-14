@@ -2,7 +2,7 @@ Crear un programa que lea el sueldo de un empleado y calcular sus descuentos AFP
 
 1: Vista inicial
 
-[url=https://postimg.cc/gwPf23Xh][img]https://i.postimg.cc/gwPf23Xh/imagen-2024-02-13-222247034.png[/img][/url]
+[![imagen-2024-02-13-222247034.png](https://i.postimg.cc/25qmTwC0/imagen-2024-02-13-222247034.png)](https://postimg.cc/gwPf23Xh)
 
 2: Ingresar el sueldo y utilizar el botón "Calcular".
 
